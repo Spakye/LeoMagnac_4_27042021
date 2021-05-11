@@ -7,6 +7,10 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.partenaires {
+	font-size: 16px;
+}
+
 a,
 button {
 	transition: all 0.3s ease-in-out;

@@ -7,15 +7,6 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.partenaires {
-	font-size: 16px;
-	margin: 0 auto;
-}
-.partenaires li a {
-	text-decoration: none;
-	color: white !important;
-}
-
 a,
 button {
 	transition: all 0.3s ease-in-out;

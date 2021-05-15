@@ -7,6 +7,10 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
+figcaption {
+	color: #575757;
+}
+
 a,
 button {
 	transition: all 0.3s ease-in-out;
